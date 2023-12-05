@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1701713407 source:c:\users\rakri\onedrive\masaüstü\c programlama\eliminate character letter\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
